@@ -1,0 +1,23 @@
+<!doctype html>
+<head>
+  <title>Module 10</title>
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h6>Simon Zagata</h6>
+
+  <h6>WRA 210</h6>
+
+  <h6>3/22/14</h6>
+
+  <h1>Markup Analysis</h1>
+
+  	<p>So far in my markup, it has been relatively easy to keep my content and design separate. The reason for this is that I understand that my html markup needs to include only the things you see on my website, and my CSS needs to include how you see the things on my website. So, my html markup includes (or will include) my headings, my links for navigation, all of the files from my portfolio, etc., while my CSS will have how large these things are, what color they are in, what they border will be like, and everything to do with design.</p>
+
+	<p>That said, while reviewing my markup there were a few things that affected my design that needed to be moved from my html to my CSS. For example, one thing that was in my html affecting my design was where my headings were placed. It is so easy to center headings in html that I started doing it automatically, instead of centering every one of my html headings with my CSS markup. Changing this simple thing meant that I did not have to write it out every time in my html, making it much easier to deal with.</p>
+
+	<p>To deliberately keep my html markup free of design elements, I have employed a simple review process. After I write each html section, whether it be the tables or any other element, I look for any design elements included in the section. Most of the time this means that the selectors in the html have nothing added to them; they are simply the selector themselves. Obviously I am going to need more than just selectors in my code, but doing a quick scan of basic and other selectors. If these selectors are by themselves, I know I cannot possibly have added design elements to them. In this way, I avoid mixing my presentation and content.</p>
+
+</body>
+</html> 
