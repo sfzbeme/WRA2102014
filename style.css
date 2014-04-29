@@ -16,5 +16,10 @@ h1 {
 body {
  	font-family: Times, Arial, sans-serif;
  	background-color:#000000;
- 	color:##800000;
+ 	color:#800000;
  	}
+
+head{
+font-family: Times;
+background-color: #000000;
+color: #800000;}
