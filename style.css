@@ -11,7 +11,9 @@ h1 {
  	font-size:32px;
  	color:#006600;
  	background-color:##00FFFF;
-	margin: auto;
+	margin: 300px 0px 0px 300px;
+	width: 600px;
+	position: absolute;
  	}
 
 body {
