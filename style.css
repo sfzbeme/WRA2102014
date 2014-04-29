@@ -6,3 +6,9 @@ color: #990099
 
 *{
 background-color: black}
+
+h1 {
+ 	font-size:32px;
+ 	color:#006600;
+ 	background-color:##00FFFF;
+ 	}
